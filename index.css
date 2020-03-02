@@ -1,0 +1,8 @@
+h1 {
+  color: red;
+}
+.after-click {
+  color: green;
+  border: 1px solid red;
+  font-size: 10px;
+}
